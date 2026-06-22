@@ -1,0 +1,171 @@
+cv:
+  name: Francisco Javier Requena García
+  email: fjg090403@gmail.com
+  location: Jaén, Andalucía, España
+  phone: "+34 626 33 20 12"
+  website: https://franrequena-portfolio.vercel.app/
+
+  social_networks:
+    - network: GitHub
+      username: fjg090403-ui
+    - network: LinkedIn
+      username: fran-requena-282ab133b
+
+  sections:
+    Perfil Profesional:
+      - label: Perfil
+        details: >
+          Perfil orientado a Ingeniería de IA, análisis de datos y desarrollo Full-Stack, con experiencia
+          práctica en RAG, agentes de IA, Machine Learning, Visión por Computador y automatización de flujos
+          de desarrollo. Base sólida en backend, arquitectura de software, APIs, DevOps, CI/CD y construcción
+          de soluciones web completas basadas en datos.
+
+    Inteligencia Artificial Aplicada:
+      - label: Sector de trabajo con IA
+        details: >
+          Desarrollo Full-Stack con Inteligencia Artificial aplicada, automatización de procesos,
+          agentes de IA, DevOps, CI/CD y creación de productos digitales orientados a negocio.
+
+      - label: Agentes y subagentes
+        details: >
+          Uso de Codex, Claude Code, agentes y subagentes para analizar requisitos, dividir tareas complejas,
+          generar código, revisar cambios, detectar errores y documentar decisiones técnicas con revisión humana.
+
+      - label: Herramientas y técnicas
+        details: >
+          Context engineering, prompt engineering, prompt chaining, prompt caching, loop engineering,
+          desarrollo iterativo asistido por IA, revisión de código, depuración guiada, análisis de arquitectura
+          y automatización de tareas repetitivas.
+
+      - label: GitHub, automatización y CI/CD
+        details: >
+          GitHub automatizado con Codex y Claude Code para ramas, commits, revisión, documentación,
+          trazabilidad y asistencia en flujos de desarrollo. Conocimiento de pipelines CI/CD, GitHub Actions,
+          Docker, validación automática, construcción y despliegue continuo.
+
+    Skills:
+      - label: Backend
+        details: Java, Spring Boot, C, PHP, Symfony, Python, FastAPI, APIs REST, MVC, JWT, PostgreSQL, MongoDB
+
+      - label: Frontend
+        details: React, Next.js, TypeScript, HTML5, CSS3, Sass, SCSS, Bootstrap, Tailwind, diseño responsive
+
+      - label: IA y Data Science
+        details: LangChain, RAG, ChromaDB, Ollama, KNIME, Kafka, Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+
+      - label: IA aplicada y agentes
+        details: >
+          Codex, Claude Code, agentes de IA, subagentes, context engineering, prompt engineering,
+          prompt chaining, prompt caching, loop engineering, revisión asistida de código y automatización
+
+      - label: Visión por Computador
+        details: MediaPipe, OpenCV, análisis en tiempo real, detección de movimiento
+
+      - label: DevOps y CI/CD
+        details: >
+          Docker, Docker Compose, GitHub, GitHub Actions, pipelines CI/CD, automatización de repositorios,
+          control de versiones, integración continua y despliegue continuo
+
+      - label: Desarrollo móvil
+        details: Flutter, Dart, aplicaciones multiplataforma Android/iOS
+
+      - label: Herramientas
+        details: Git, GitHub, Codex, Claude Code, WordPress, Socket.IO, Mercure, VS Code, despliegue de aplicaciones
+
+    Especialización Técnica:
+      - label: Ingeniería de IA aplicada
+        details: RAG, agentes de IA, automatización con Codex/Claude Code, integración de modelos y flujos human-in-the-loop
+
+      - label: Datos y Machine Learning
+        details: Análisis de datos, preparación de datasets, entrenamiento, evaluación de modelos y visualización de resultados
+
+      - label: Arquitectura Full-Stack y DevOps
+        details: APIs, autenticación JWT, roles, bases de datos, Docker, CI/CD, despliegue y documentación técnica
+
+    Proyectos:
+      - label: SupportAI SaaS – Chatbot RAG multi-tenant / 2026
+        date: "2026"
+        details: >
+          SaaS de atención al cliente con IA generativa y RAG sobre documentos de empresa. Backend en Python
+          con FastAPI, SQLAlchemy y JWT; LangChain para PDF/TXT, ChromaDB por tenant, Ollama,
+          PostgreSQL y frontend React/TypeScript con Docker Compose.
+
+      - label: Visión por computador en tiempo real / Diciembre 2025 - Marzo 2026
+        date: "Diciembre 2025 - Marzo 2026"
+        details: >
+          Aplicación de escritorio en Python con OpenCV, MediaPipe, NumPy y PySide6. Se aplicó visión por
+          computador para detección de pose, tracking, bounding boxes, esqueleto corporal y mapas de calor.
+
+      - label: Machine Learning en múltiples datasets / 2024 - 2025
+        date: "2024 - 2025"
+        details: >
+          Proyectos en Python con Pandas, NumPy, Scikit-learn, TensorFlow y Keras para limpieza,
+          entrenamiento, clasificación, predicción y evaluación de métricas.
+
+      - label: GastroPro – Plataforma operativa para restaurantes / 2026
+        date: "2026"
+        details: >
+          Plataforma full-stack para carta QR, comandas en vivo, cocina/sala, caja, reservas y analítica.
+          PHP/Symfony API Platform, PostgreSQL, Doctrine, JWT, roles, Next.js/React PWA, Mercure y Docker Compose.
+
+      - label: SaaS Project Manager – Monorepo tipo Trello/Jira / 2026
+        date: "2026"
+        details: >
+          SaaS de gestión de proyectos con Java 21/Spring Boot, Spring Security, JWT, PostgreSQL,
+          React/Vite, Angular admin, Node.js/Socket.IO, Kanban realtime y Docker Compose.
+
+      - label: Plataforma de gestión de eventos (Symfony) / Enero 2024 - Junio 2024
+        date: "Enero 2024 - Junio 2024"
+        details: >
+          Aplicación web en PHP/Symfony con Doctrine, Twig y MySQL/PostgreSQL. Autenticación, roles,
+          usuarios, eventos, inscripciones, panel admin, correos y generación de PDFs.
+
+      - label: Organizador académico y financiero móvil / 2026
+        date: "2026"
+        details: >
+          App móvil en TypeScript con Expo, React Native, SQLite offline, Zustand y notificaciones locales
+          para tareas, asignaturas, calendario, compras y gastos.
+
+      - label: Portfolio web interactivo / 2026
+        date: "2026"
+        details: >
+          Portfolio personal con React, TypeScript, Vite, Tailwind CSS, Motion, Three.js y despliegue en Vercel.
+
+      - label: Experiencia Kit Digital / 2024 - 2025
+        date: "2024 - 2025"
+        details: >
+          Sitios web para clientes con WordPress, contenidos, SEO básico, formularios, responsive y hosting.
+          https://lamochacasarural.com/ | https://prodebor.es/
+
+      - label: Aplicación móvil “La Mocha” y AEPA web corporativa / 2024 - 2025
+        date: "2024 - 2025"
+        details: >
+          App turística en Flutter/Dart y web corporativa con gestión de contenido e integración Google Drive.
+          https://lamochacasarural.com/app/
+
+    Experiencia Profesional:
+      - label: Desarrollador Full-Stack Multiplataforma – THE SUPER DRIVER IOT SOLUTIONS SL
+        date: "Marzo 2025 - Junio 2025"
+        location: Jaén, Andalucía, España
+        details: >
+          Contrato de prácticas en Kit Digital: análisis de requisitos, arquitectura, bases de datos,
+          desarrollo, despliegue, documentación, formación y soporte. Soluciones web, móviles y escritorio
+          con PHP/Symfony, Flutter/Dart y Python, APIs y servicios externos para el sector turístico.
+
+    Formación:
+      - label: Especialización en Inteligencia Artificial y Big Data (IES Oretania)
+        details: Machine Learning, Deep Learning, análisis de datos, Big Data, KNIME, Kafka, TensorFlow, PyTorch, Spark, Hadoop y Power BI.
+        date: "2024 - 2025"
+
+      - label: DAW – Desarrollo de Aplicaciones Web (IES Oretania)
+        details: Desarrollo full-stack con PHP, Symfony, HTML, CSS, JavaScript, bases de datos, APIs REST, roles y PDFs.
+        date: "2022 - 2024"
+
+    Certificaciones:
+      - label: Certificaciones y conocimientos
+        details: PCEP™ Python Institute, Sass y MongoDB (OpenWebinars), Inglés B2 (Trinity College London), AWS Cloud y SCSS avanzado
+
+design:
+  theme: classic
+  entries:
+    allow_page_break_in_sections: false
