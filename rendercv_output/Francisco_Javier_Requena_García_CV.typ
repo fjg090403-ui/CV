@@ -696,7 +696,7 @@
 
 
 #one-col-entry(
-  content: [#strong[Certificaciones y conocimientos:] PCEP™ Python Institute, Sass y MongoDB \(OpenWebinars\), Inglés B2 \(Trinity College London\), AWS Cloud y SCSS avanzado]
+  content: [#strong[Certificaciones y conocimientos:] PCEP™ Python Institute, Desarrollo con IA - Programa con Agentes \(BIG school\/mouredev\), Sass y MongoDB \(OpenWebinars\), Inglés B2 \(Trinity College London\), AWS Cloud y SCSS avanzado]
 )
 
   ],

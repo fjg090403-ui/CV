@@ -71,4 +71,4 @@
 - DAW – Desarrollo de Aplicaciones Web (IES Oretania): Desarrollo full-stack con PHP, Symfony, HTML, CSS, JavaScript, bases de datos, APIs REST, roles y PDFs.
 # Certificaciones
 
-- Certificaciones y conocimientos: PCEP™ Python Institute, Sass y MongoDB (OpenWebinars), Inglés B2 (Trinity College London), AWS Cloud y SCSS avanzado
+- Certificaciones y conocimientos: PCEP™ Python Institute, Desarrollo con IA - Programa con Agentes (BIG school/mouredev), Sass y MongoDB (OpenWebinars), Inglés B2 (Trinity College London), AWS Cloud y SCSS avanzado
